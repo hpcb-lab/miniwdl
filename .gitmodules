@@ -34,3 +34,6 @@
 [submodule "test_corpi/dnanexus/dxWDL"]
 	path = test_corpi/dnanexus/dxWDL
 	url = https://github.com/dnanexus/dxWDL.git
+[submodule "tests/bash-tap"]
+	path = tests/bash-tap
+	url = https://github.com/illusori/bash-tap.git
